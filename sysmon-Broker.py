@@ -415,9 +415,7 @@ _security_event_map = {
     #4907: object_sacl_changed,
 }
 
-_system_event_map = dict(
-    
-)
+_system_event_map = {}
 
 _sysmon_event_map = {
 	1:   process_creation,
